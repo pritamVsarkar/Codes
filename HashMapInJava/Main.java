@@ -18,7 +18,7 @@ public class Main{
         pritam.clear(); //NamE_of_HashMap.clear()-->make the hash map empty
         print(pritam); 
     }
-    public static void print(Map<String, Integer> pritam)  
+    public static void print(Map<String, Integer> pritam)  //reference of the Hash Map obj
     { 
         if (pritam.isEmpty())  //NamE_of_HashMap.isEmpty() -->whether the has map empty or not
         { 
